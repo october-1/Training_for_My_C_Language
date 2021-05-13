@@ -2,7 +2,7 @@
 
 # **指针**
 
-![image-20210511191437242](C:\Users\ALIENWARE\AppData\Roaming\Typora\typora-user-images\image-20210511191437242.png)
+![image-20210511191437242.png](https://github.com/october-1/Training_for_My_C_Language/blob/master/images/image-20210511191437242.png?raw=true)
 
 通过i来访问或者改变这个值就叫做直接访问，如果通过p来进行访问或者改变就叫做(一级)间接访问；通过q叫做(二级)间接访问；
 
@@ -48,7 +48,7 @@ p++; //这个操作可以，因为p是一个指针变量
 
 #### 指针与二维数组
 
-#### ![image-20210511223921836](C:\Users\ALIENWARE\AppData\Roaming\Typora\typora-user-images\image-20210511223921836.png)	
+###### ![image-20210511223921836.png](https://github.com/october-1/Training_for_My_C_Language/blob/master/images/image-20210511223921836.png?raw=true)	
 
 当跳过一个数值，是跳过了很多数值就是在行上的移动，当跳过一个数值，只是跳过了一个元素，就是在列上移动；
 
