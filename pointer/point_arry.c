@@ -13,7 +13,7 @@ int main()
 		k = i;
 		for(j = i+1;j < 5;j++)
 		{
-			if(strcmp(name[i],name[j])>0)
+			if(strcmp(name[k],name[j])>0)
 				k = j;
 		}
 		if(k != i)
